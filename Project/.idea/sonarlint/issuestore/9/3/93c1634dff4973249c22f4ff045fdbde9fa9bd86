@@ -1,0 +1,6 @@
+
+•
+java:S1130
+"Remove the declaration of thrown exception 'org.apache.spark.sql.AnalysisException', as it cannot be thrown from method's body.(‡¾þ“
+Q	java:S125"<This block of commented-out lines of code should be removed.(¬Þ­¤
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®ÚÀ…øÿÿÿÿ

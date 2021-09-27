@@ -1,0 +1,22 @@
+
+c
+java:S11926"MDefine a constant instead of duplicating this literal "FriendsCount" 4 times.(¬Çþ”
+h
+java:S1192<"MDefine a constant instead of duplicating this literal "RetweetCount" 4 times.(çéûƒùÿÿÿÿ
+]
+java:S1192B"GDefine a constant instead of duplicating this literal "Source" 4 times.(—ÀÛ¼
+e
+java:S11920"JDefine a constant instead of duplicating this literal "UsertName" 4 times.(Ñ•Ááÿÿÿÿÿ
+`
+java:S1192."JDefine a constant instead of duplicating this literal "createdAt" 4 times.(¼„…Ý
+j
+java:S11924"ODefine a constant instead of duplicating this literal "FollowersCount" 4 times.(‡æ—Öþÿÿÿÿ
+a
+java:S11922"KDefine a constant instead of duplicating this literal "ScreenName" 4 times.(‚ˆÒî
+f
+java:S11928"PDefine a constant instead of duplicating this literal "FavouritesCount" 4 times.(ä½¿†
+i
+java:S1192>"NDefine a constant instead of duplicating this literal "FavoriteCount" 4 times.(¹Õ£ˆüÿÿÿÿ
+_
+java:S1192:"IDefine a constant instead of duplicating this literal "Location" 4 times.(æííÖ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®ÚÀ…øÿÿÿÿ
